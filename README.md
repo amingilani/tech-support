@@ -92,4 +92,6 @@ I personally have a Nexus 6P and a mid-2014 15" Macbook Pro and I don't plan on 
 ## My question isn't listed here
 
 This list is a perpetual work in progress. Your questions will help this grow. If you still need
-help, create an issue [here](https://github.com/amingilani/tech-support/issues/new) and we'll have a conversation here :)
+help, create an issue [here](https://github.com/amingilani/tech-support/issues/new) and we'll have a conversation :)
+
+You'll have to create a Github account, but that's a small price to pay.
