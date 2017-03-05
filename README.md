@@ -67,3 +67,17 @@ You can't, and you still want me to do it? Fine, but you'll have to feed me.
 3. Show up at my house with your laptop and a Windows CD
 4. While it's installing, order my favorite food.
 5. You're done.
+
+## What laptop or phone should I buy?
+
+It depends on your needs and your budgets. Here's how I search for my new stuff.
+
+For laptop, use the instructions at [this wikihow](http://www.wikihow.com/Choose-a-Laptop)
+
+Phones:
+
+1. Find canditates via the [helper on the android website](https://www.android.com/phones/whichphone)
+2. Compare them using [GSM Arena](http://www.gsmarena.com/)
+3. Find the best deal by searching manually, through [Google Shopping](https://www.google.com/shopping?hl=en), or with [NextTag](https://www.nextag.com/)
+
+I personally have a Nexus 6P and a mid-2014 15" Macbook Pro and I don't plan on upgrading in the near future.
