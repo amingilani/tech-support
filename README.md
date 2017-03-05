@@ -77,7 +77,7 @@ You can't, and you still want me to do it? Fine, but you'll have to feed me.
 
 It depends on your needs and your budgets. Here's how I search for my new stuff.
 
-For laptop, use the instructions at [this wikihow](http://www.wikihow.com/Choose-a-Laptop)
+For laptops, use the instructions at [this wikihow](http://www.wikihow.com/Choose-a-Laptop)
 
 Phones:
 
