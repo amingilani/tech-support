@@ -4,12 +4,15 @@ Hi I get a lot of technology questions, and oft times I find
 myself repeating the same advice. I made this page to streamline
 the process, and make it easier for you to solve your problem.
 
-Please *don't*:
+**Don't**:
 * Call me
 * Text me
 * Email me
 
-Please *do read this document* and follow the instructions listed.
+**Do follow the instructions in this document**
+
+[TOC]
+
 
 ## My account was hacked, help me!
 
