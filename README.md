@@ -1,6 +1,6 @@
 # Tech Support
 
-Note: to see a prettier version of this doc, click [here](https://raw.githubusercontent.com/amingilani/tech-support/master/README.md)
+Note: to see a prettier version of this doc, click [here](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/amingilani/tech-support/master/README.md)
 
 Hi! I get a lot of technology questions, and oft times I find
 myself repeating the same advice. I made this page to streamline
