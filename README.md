@@ -34,9 +34,11 @@ Here are some helpful links:
   - Account: http://www.google.com/accounts
   - Recovery: https://accounts.google.com/signin/recovery
 
-## Will you hack an account for me?
+## Will you hack something for me?
 
 No. Fuck off.
+
+And before you make an excuse: I hate repeating myself, but fuck right off.
 
 ## Can you make my website for me?
 
