@@ -16,7 +16,11 @@ the process, and make it easier for you to solve your problem.
 [TOC]
 
 
-## My account was hacked, help me!
+## FAQ
+
+Here is a list of frequently asked questions. This list will be expanded as more questions pour in.
+
+### My account was hacked, help me!
 
 I'm sorry to hear that, but there is more *you* can do than I can!
 Here are some immediate steps you should take:
@@ -34,13 +38,13 @@ Here are some helpful links:
   - Account: http://www.google.com/accounts
   - Recovery: https://accounts.google.com/signin/recovery
 
-## Will you hack something for me?
+### Will you hack something for me?
 
 No. Fuck off.
 
 And before you make an excuse: I hate repeating myself, but fuck right off.
 
-## Can you make my website for me?
+### Can you make my website for me?
 
 Yes, but you're going out of favor terrority and approaching work territory. I
 design web applications on a contractual basis, and I'm very good at them. If
@@ -49,7 +53,7 @@ you want to hire me, here's [my freelance profile](https://www.toptal.com/resume
 If you're looking to design a plain website for your business really fast I'm probably
 a little over your budget, in which case I recommend posting on this [Pakistani freelancer's facebook group](https://www.facebook.com/groups/freelancers.pakistan/).
 
-## There's a virus on my computer, can you fix it?
+### There's a virus on my computer, can you fix it?
 
 Yes, I can, and you can too:
 
@@ -75,7 +79,7 @@ You can't, and you still want me to do it? Fine, but you'll have to feed me.
 4. While it's installing, order my favorite food.
 5. You're done.
 
-## What laptop or phone should I buy?
+### What laptop or phone should I buy?
 
 It depends on your needs and your budgets. Here's how I search for my new stuff.
 
@@ -89,9 +93,13 @@ Phones:
 
 I personally have a Nexus 6P and a mid-2014 15" Macbook Pro and I don't plan on upgrading in the near future.
 
-## My question isn't listed here
+### My question isn't listed here
 
 This list is a perpetual work in progress. Your questions will help this grow. If you still need
 help, create an issue [here](https://github.com/amingilani/tech-support/issues/new) and we'll have a conversation :)
 
 You'll have to create a Github account, but that's a small price to pay.
+
+## Legal
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
