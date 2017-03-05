@@ -84,3 +84,8 @@ Phones:
 3. Find the best deal by searching manually, through [Google Shopping](https://www.google.com/shopping?hl=en), or with [NextTag](https://www.nextag.com/)
 
 I personally have a Nexus 6P and a mid-2014 15" Macbook Pro and I don't plan on upgrading in the near future.
+
+## My question isn't listed here
+
+This list is perpetually a work in progress, if you still need
+help, create an issue [here](https://github.com/amingilani/tech-support/issues/new)
