@@ -127,7 +127,7 @@ Your reward for every block in BTC will be:
 
 To check if mining is feasible, you'll have to convert your bitcoin into USD, here's a cool [bitcoin price index](http://www.coindesk.com/price/)
 
-### Notes
+#### Notes
 
 These figures may change drastically over time, so [here](https://blockchain.info/charts) are some helpful charts to determine historical trends.
 
