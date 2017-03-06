@@ -93,6 +93,45 @@ Phones:
 
 I personally have a Nexus 6P and a mid-2014 15" Macbook Pro and I don't plan on upgrading in the near future.
 
+### I wanna mine bitcoin, how do I do it?
+
+**Please don't ask me for specific advice on your rig.**
+
+Sure, but before you mine bitcoin (BTC), do this:
+
+1. Learn how bitcoin and mining works by watching this [video](https://www.youtube.com/watch?v=_160oMzblY8) for a demonstration.
+2. Find your [mining rig](https://en.bitcoin.it/wiki/Mining_rig)
+3. Run a [Cost-Benefit Analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) to determine the feasibility of your mining operation.
+
+
+#### Costs
+
+Cost components will be priced in fiat money:
+
+* Fixed cost: buying the rig and setting it up
+* Variable cost: running electricity cost and depreciation
+
+
+#### Benefits
+
+Your benefits will be the bitcoin you mine. The real amount may vary but here's how to estimate your mining:
+
+Find the values for these variables:
+
+* `hash_local`: the [hashrate](https://en.bitcoin.it/wiki/Mining_hardware_comparison) your rig will give.
+* `hash_global`: the total [global hashrate](https://blockchain.info/charts/hash-rate).
+* `block_reward`: the current [block reward](https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/)  (12.5 BTC per block as I write this)
+
+Your reward for every block in BTC will be:  
+ `block_reward * hash_local / (hash_local + hash_global)`
+
+To check if mining is feasible, you'll have to convert your bitcoin into USD, here's a cool [bitcoin price index](http://www.coindesk.com/price/)
+
+### Notes
+
+These figures may change drastically over time, so [here](https://blockchain.info/charts) are some helpful charts to determine historical trends.
+
+
 ### My question isn't listed here
 
 This list is a perpetual work in progress. Your questions will help this grow. If you still need
