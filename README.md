@@ -20,7 +20,7 @@ the process, and make it easier for you to solve your problem.
 
 Here is a list of frequently asked questions. This list will be expanded as more questions pour in.
 
-### My account was hacked, help me!
+### My account was hacked, can you help me?
 
 I'm sorry to hear that, but there is more *you* can do than I can!
 Here are some immediate steps you should take:
